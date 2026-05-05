@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+basecampus_dz/.dart_tool/
+basecampus_dz/build/
+basecampus_dz/.flutter-plugins
+basecampus_dz/.flutter-plugins-dependencies
